@@ -1,1 +1,1 @@
-web: ./build/install/herokuBook/bin/herokuBook
+web: ./build/install/stv/bin/stv
